@@ -23,7 +23,7 @@
  *   input:-ms-input-placeholder,
  *   input:-moz-placeholder { font-style: italic; color: silver; }
  * 
- * Url: http://github.com/wailqill/jquery-placeholder
+ * Url: http://github.com/tregusti/jquery-placeholder
  **/
 (function ($) {
 
